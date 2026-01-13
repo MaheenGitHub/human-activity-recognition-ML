@@ -120,6 +120,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
    ```bash
    git clone https://github.com/MaheenGitHub/human-activity-recognition-ML.git
   ```
-
+```
 ## 📄 License
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.

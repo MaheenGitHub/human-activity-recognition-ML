@@ -74,8 +74,7 @@ human-activity-recognition-ML/
 - **Label Encoder:** `label_encoder.pkl`  
 - **Assignment Document:** `Assignment_Deliverables_3.docx`
 
-- ### Training Curves for Fully Connected DNN
-![Training Curves](Fully_Connected_Deep_Neural_Network/A5_3_training_curves.png)
+
   
 
 ---

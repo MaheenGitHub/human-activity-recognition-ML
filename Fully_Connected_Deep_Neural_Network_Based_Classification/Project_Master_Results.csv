@@ -1,0 +1,2 @@
+Model,Accuracy,F1-Score,Input Type
+Fully Connected DNN,0.9294197488971836,0.9286481328307086,Raw Data (Flattened)

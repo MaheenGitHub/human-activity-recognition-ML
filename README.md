@@ -6,6 +6,8 @@ The project evaluates and compares **classical machine learning models**, **full
 ---
 
 ## 📂 Repository Structure
+```bash
+
 human-activity-recognition-ML/
 │
 ├── Time_Series_Data_Analysis_&_Preprocessing/
@@ -38,6 +40,7 @@ human-activity-recognition-ML/
 ├── Project_Master_Results.csv
 ├── LICENSE
 └── README.md
+```
 
 ---
 

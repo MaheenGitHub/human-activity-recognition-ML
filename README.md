@@ -6,27 +6,38 @@ The project evaluates and compares **classical machine learning models**, **full
 ---
 
 ## 📂 Repository Structure
-
 human-activity-recognition-ML/
-- Feature_Engineering_and_Classical_Machine_Learning_Classification/
-  - Feature_Engineering_and_Classical_Machine_Learning_Classification.ipynb
-  - A5_2_results.csv
-  - Assignment_Deliverables_02.docx
-- Fully_Connected_Deep_Neural_Network/
-  - Fully_Connected_Deep_Neural_Network.ipynb
-  - HAR_DNN_Model_5_3.keras
-  - NN_template.py
-  - A5_3_training_curves.png
-  - Assignment_Deliverables_3.docx
-  - Project_Master_Results.csv
-  - label_encoder.pkl
-- Time_Series_Data_Analysis_&_Preprocessing/
-  - Time_Series_Data_Analysis_&_Preprocessing.ipynb
-  - Assignment_Deliverables_01.pdf
-  - train.zip
-  - test.zip
-- LICENSE
-- README.md
+│
+├── Time_Series_Data_Analysis_&_Preprocessing/
+│   ├── Time_Series_Data_Analysis_&_Preprocessing.ipynb
+│   ├── Assignment_Deliverables_01.pdf
+│   ├── train.zip
+│   └── test.zip
+│
+├── Feature_Engineering_and_Classical_Machine_Learning_Classification/
+│   ├── Feature_Engineering_and_Classical_Machine_Learning_Classification.ipynb
+│   ├── A5_2_results.csv
+│   └── Assignment_Deliverables_02.docx
+│
+├── Fully_Connected_Deep_Neural_Network/
+│   ├── Fully_Connected_Deep_Neural_Network.ipynb
+│   ├── HAR_DNN_Model_5_3.keras
+│   ├── NN_template.py
+│   ├── A5_3_training_curves.png
+│   ├── label_encoder.pkl
+│   └── Assignment_Deliverables_3.docx
+│
+├── Sequence-Based Deep Learning Classification/
+│   ├── Sequence_Based_Deep_Learning_Classification.ipynb
+│   ├── best_lstm.keras
+│   ├── activity_labels.txt
+│   ├── features.txt
+│   ├── features_info.txt
+│   └── Assignment_deliverable_4.docx
+│
+├── Project_Master_Results.csv
+├── LICENSE
+└── README.md
 
 ---
 
@@ -79,8 +90,23 @@ human-activity-recognition-ML/
 
 ---
 
-### Deliverable 4 – Sequence-Based Deep Learning (LSTM)
-> **Coming Soon** – This deliverable will contain a comparative study using sequence-based deep learning models trained on raw sequential sensor data, capturing temporal patterns for human activity recognition.
+### Deliverable 4 – Sequence-Based Deep Learning (Final Capstone)
+- **Notebook:** `Sequence_Based_Deep_Learning_Classification.ipynb`  
+- **Models Implemented:** Simple RNN , LSTM ,GRU
+- **Input:** 3D sequential data (samples × time steps × features)
+- **Optimizer:** Adam  
+- **Loss Function:** Categorical Cross-Entropy  
+- **Batch Size:** 32  
+- **Epochs:** 30
+- **Results:**  
+  - **RNN:** Accuracy ≈ 85.6%
+  - **LSTM:** Accuracy ≈ 91.2%, F1-score ≈ 0.91
+  - **GRU:** Accuracy ≈ 90–91%, F1-score ≈ 0.90
+- **Artifacts:**
+  - **Best model:** best_lstm.keras
+  - **Metadata:** activity_labels.txt, features.txt, features_info.txt
+
+- **Assignment Document:** `Assignment_deliverable_4.docx`
 
 ---
 

@@ -102,13 +102,13 @@ human-activity-recognition-ML/
 - **Batch Size:** 32  
 - **Epochs:** 30
 - **Results:**  
-  - **RNN:** Accuracy ≈ 85.6%
-  - **LSTM:** Accuracy ≈ 91.2%, F1-score ≈ 0.91
-  - **GRU:** Accuracy ≈ 90–91%, F1-score ≈ 0.90
+  - **RNN:** Accuracy ≈ 85.65% ,F1-score ≈  0.8555
+  - **LSTM:** Accuracy ≈ 91.25%, F1-score ≈  0.9140
+  - **GRU:** Accuracy ≈  90.46%, F1-score ≈ 0.9064
 - **Artifacts:**
   - **Best model:** best_lstm.keras
   - **Metadata:** activity_labels.txt, features.txt, features_info.txt
-
+> Sequence models operate on reshaped sequential representations derived from the original sensor windows.
 - **Assignment Document:** `Assignment_deliverable_4.docx`
 
 ---

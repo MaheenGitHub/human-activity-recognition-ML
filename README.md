@@ -1,10 +1,11 @@
 # Human Activity Recognition (HAR) Project
 
-**KineticSense AI** is a state-of-the-art Machine Learning framework for recognizing human physical activities from smartphone sensor data (Accelerometer & Gyroscope).  
-This project demonstrates **end-to-end ML pipelines**: from raw signal preprocessing → feature engineering → classical ML → deep learning (DNN & LSTM) → evaluation & visualization.  
 
-It highlights **high-performance models**, **temporal sequence learning**, and **real-world applications** in healthcare, IoT, smart homes, and worker safety.  
-> Perfect for anyone exploring **ML product development, AI research, or embedded systems deployment**.
+This repository contains a Machine Learning semester project on Human Activity Recognition (HAR) using smartphone sensor data.
+
+The project evaluates and compares classical machine learning models, fully connected deep neural networks (DNN), and sequence-based deep learning models (LSTM) for activity classification.
+
+
 
 ---
 
@@ -152,8 +153,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
 Clone the repository:
 ```bash
 git clone https://github.com/MaheenGitHub/human-activity-recognition-ML.git
+```
 
----
 
 ## ⭐ Show Your Support
 

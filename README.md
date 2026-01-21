@@ -8,14 +8,7 @@ It highlights **high-performance models**, **temporal sequence learning**, and *
 
 ---
 
-## 🎯 Motivation
-
-Human Activity Recognition (HAR) is critical for **healthcare monitoring, workplace safety, and smart environments**.  
-KineticSense AI aims to deliver **accurate, real-time activity detection** using smartphone sensors, providing a practical solution for **AI-powered IoT devices and wearable systems**.
-
----
-
-## 🛠️ Technologies
+### 🛠️ Technologies
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
@@ -24,6 +17,15 @@ KineticSense AI aims to deliver **accurate, real-time activity detection** using
 ![NumPy](https://img.shields.io/badge/NumPy-1.22-blue?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-yellow?style=for-the-badge&logo=matplotlib)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11-purple?style=for-the-badge&logo=seaborn)
+---
+
+
+### 🎯 Motivation
+
+Human Activity Recognition (HAR) is critical for **healthcare monitoring, workplace safety, and smart environments**.  
+KineticSense AI aims to deliver **accurate, real-time activity detection** using smartphone sensors, providing a practical solution for **AI-powered IoT devices and wearable systems**.
+
+
 
 ---
 
@@ -76,18 +78,6 @@ KineticSense AI aims to deliver **accurate, real-time activity detection** using
 **Evaluation & Metrics:** Accuracy, F1-score, confusion matrices  
 
 **Visualization:** Feature distributions, training curves, prediction results  
-
----
-
-## 📊 Visual Results
-
-**DNN Training Curves**  
-![DNN Training Curves](Fully_Connected_Deep_Neural_Network/A5_3_training_curves.png)
-
-**LSTM Confusion Matrix**  
-![LSTM Confusion Matrix](Sequence-Based\ Deep\ Learning\ Classification/lstm_confusion_matrix.png)
-
-> Add more images here as needed, using existing PNGs in your repo.
 
 ---
 
@@ -159,9 +149,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
 ```
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MaheenGitHub/human-activity-recognition-ML.git
+Clone the repository:
+```bash
+git clone https://github.com/MaheenGitHub/human-activity-recognition-ML.git
 
 ---
 

@@ -128,7 +128,7 @@ human-activity-recognition-ML/
 **Inference Speed:** ~0.47ms per activity window (LSTM).  
 **Stability:** 30% Dropout prevents overfitting, ensuring robust predictions.
 
---
+--- 
 ## 💡 Industrial Use Cases
 
 **Healthcare:** Fall detection for elderly care.
@@ -142,9 +142,9 @@ human-activity-recognition-ML/
 ---
 ## 🤝 Collaboration & Contributions
 
-This project is actively evolving! I welcome **suggestions, feedback, and collaboration** from fellow developers, ML enthusiasts, and researchers.  
 
-Opportunities to contribute include:  
+
+**Opportunities to contribute include:**
 - **Edge Deployment:** Convert models to TFLite for ESP32 / Arduino  
 - **Interactive Dashboards:** Build Streamlit or Flutter real-time interfaces  
 - **Mobile Integration:** Stream live sensor data and integrate with apps  
@@ -154,7 +154,17 @@ Opportunities to contribute include:
 2. Create a branch: `git checkout -b feature/AmazingFeature`  
 3. Commit your changes: `git commit -m 'Add AmazingFeature'`  
 4. Push to your branch: `git push origin feature/AmazingFeature`  
-5. Open a Pull Request and join the discussion!  
+5. Open a Pull Request and join the discussion!
+6. This project is actively evolving!
+
+**Note:** This repository is currently **private**.  
+If you would like to contribute or explore the code, please request access via:
+- [LinkedIn Profile](https://www.linkedin.com/in/maheenfatimaa/ "Visit my LinkedIn for details")
+- [GitHub Profile]((https://github.com/MaheenGitHub)"Visit my GitHub for details")
+- [Email Me](mailto:maheen19pgc@gmail.com "Send me an email")
+
+
+
 
 Let’s make **HAR solutions smarter, faster, and more accessible together!**
 
@@ -179,5 +189,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
 
 ## ⭐ Show Your Support
 
-Liked this Repo?  give it a ⭐️ on GitHub!
+Liked this Repo?  Give it a ⭐️ on GitHub!
 

@@ -2,6 +2,15 @@
 
 This repository contains a Machine Learning semester project on **Human Activity Recognition (HAR)** using smartphone sensor data.  
 The project evaluates and compares **classical machine learning models**, **fully connected deep neural networks (DNN)**, and **sequence-based deep learning models (LSTM)** for activity classification.
+🛠️ Technologies
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-2.x-red?style=for-the-badge&logo=keras)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.24-lightgrey?style=for-the-badge&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/NumPy-1.22-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-yellow?style=for-the-badge&logo=matplotlib)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.11-purple?style=for-the-badge&logo=seaborn)
 
 ---
 
@@ -137,6 +146,57 @@ human-activity-recognition-ML/
 
 ---
 
+
+## 📊 Performance Metrics
+
+| Model | Accuracy | F1-Score | Notes |
+| :--- | :--- | :--- | :--- |
+| SVM | 96% | 0.96 | Strong baseline for low-power inference |
+| DNN | 92.94% | 0.928 | Works well on high-dimensional features |
+| LSTM | 91.25% | 0.914 | Captures temporal dependencies |
+
+**Inference Speed:** ~0.47ms per activity window (LSTM).  
+**Stability:** 30% Dropout prevents overfitting, ensuring robust predictions.
+
+--
+## 💡 Industrial Use Cases
+
+**Healthcare:** Fall detection for elderly care.
+
+**Logistics:** Worker ergonomics monitoring to reduce injuries.
+
+**Insurance / FinTech:** Activity-based insurance premium modeling.
+
+**Smart Home / IoT:** Gesture-based home automation.
+
+---
+
+## 🤝 Contributing & Collaboration
+
+I’m actively looking to expand it for:
+
+**Edge Deployment:** TFLite conversion for ESP32 / Arduino.
+
+**UI/UX:** Streamlit or Flutter real-time dashboards.
+
+**Mobile Integration:** Live sensor streaming & mobile app support.
+
+**How to Contribute:**
+
+  1.Fork the repo
+
+  2.Create a branch: git checkout -b feature/AmazingFeature
+
+  3.Commit changes: git commit -m 'Add AmazingFeature'
+
+  4.Push branch: git push origin feature/AmazingFeature
+
+  5.Open a Pull Request
+
+---
+
+
+---
 ## 📄 License
 This project is licensed under the MIT License.
 
@@ -151,4 +211,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow xgboost
    ```bash
    git clone https://github.com/MaheenGitHub/human-activity-recognition-ML.git
 
+---
+
+## ⭐ Show Your Support
+
+Liked this Repo?  give it a ⭐️ on GitHub!
 

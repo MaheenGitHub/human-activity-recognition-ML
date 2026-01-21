@@ -13,6 +13,28 @@ The project evaluates and compares **classical machine learning models**, **full
 ![Seaborn](https://img.shields.io/badge/Seaborn-0.11-purple?style=for-the-badge&logo=seaborn)
 
 ---
+## 🌟 Key Highlights
+
+**Multiple ML Pipelines:** Classical ML (SVM, Random Forest, XGBoost) + Deep Learning (Fully Connected DNN, LSTM, GRU)
+
+**High Accuracy:**
+
+- SVM: 96% | F1: 0.96
+- DNN: 92.94% | F1: 0.9286
+- LSTM: 91.25% | F1: 0.914
+
+**Visual Insights:** Confusion matrices, training curves, feature distributions
+
+---
+## 📁 Project Deliverables
+| Deliverable | Focus                              | Key Files / Artifacts                                                                                                                                     |
+| ----------- | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| D1          | Data Analysis & Preprocessing      | `Time_Series_Data_Analysis_&_Preprocessing.ipynb`, `Assignment_Deliverables_01.pdf`                                                                       |
+| D2          | Feature Engineering & Classical ML | `Feature_Engineering_and_Classical_Machine_Learning_Classification.ipynb`, `A5_2_results.csv`, `Assignment_Deliverables_02.docx`                          |
+| D3          | Fully Connected DNN                | `Fully_Connected_Deep_Neural_Network.ipynb`, `HAR_DNN_Model_5_3.keras`, `A5_3_training_curves.png`, `label_encoder.pkl`, `Assignment_Deliverables_3.docx` |
+| D4          | Sequence Models (RNN / LSTM / GRU) | `Sequence_Based_Deep_Learning_Classification.ipynb`, `best_lstm.keras`, `features.txt`, `activity_labels.txt`, `Assignment_deliverable_4.docx`            |
+
+---
 
 ## 📂 Repository Structure
 ```bash
@@ -183,20 +205,14 @@ I’m actively looking to expand it for:
 
 **How to Contribute:**
 
-  1.Fork the repo
-
-  2.Create a branch: git checkout -b feature/AmazingFeature
-
-  3.Commit changes: git commit -m 'Add AmazingFeature'
-
-  4.Push branch: git push origin feature/AmazingFeature
-
-  5.Open a Pull Request
+1. Fork the repo
+2. Create a branch: git checkout -b feature/AmazingFeature
+3. Commit changes: git commit -m 'Add AmazingFeature'
+4. Push branch: git push origin feature/AmazingFeature
+5. Open a Pull Request
 
 ---
 
-
----
 ## 📄 License
 This project is licensed under the MIT License.
 

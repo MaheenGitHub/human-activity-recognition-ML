@@ -21,7 +21,7 @@ The project evaluates and compares classical machine learning models, fully conn
 ---
 
 
-### 🎯 Motivation
+###  Motivation
 
 Human Activity Recognition (HAR) is critical for **healthcare monitoring, workplace safety, and smart environments**.  
 KineticSense AI aims to deliver **accurate, real-time activity detection** using smartphone sensors, providing a practical solution for **AI-powered IoT devices and wearable systems**.

@@ -5,6 +5,11 @@ This repository contains a Machine Learning semester project on Human Activity R
 
 The project evaluates and compares classical machine learning models, fully connected deep neural networks (DNN), and sequence-based deep learning models (LSTM) for activity classification.
 
+📘 **Project Walkthrough & Technical Blog**  
+I’ve documented the complete technical journey, design decisions, experiments, and lessons learned in a detailed Hashnode blog:
+
+🔗 Read here:  
+https://maheen-ai.hashnode.dev/human-activity-recognition-with-machine-learning
 
 
 ---

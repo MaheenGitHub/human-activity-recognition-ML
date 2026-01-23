@@ -131,12 +131,12 @@ KineticSense AI aims to deliver **accurate, real-time activity detection** using
 4. Push to branch: `git push origin feature/AmazingFeature`  
 5. Open a Pull Request  
 
-**Note:** This repository is currently **private**.  
 If you would like to contribute or explore the code, request access via:  
 
 - [LinkedIn Profile](https://www.linkedin.com/in/maheenfatimaa/ "Visit my LinkedIn for details")  
 - [GitHub Profile](https://github.com/MaheenGitHub "Visit my GitHub for details")  
-- [Email Me](mailto:maheen19pgc@gmail.com "Send me an email")  
+- [Email Me](mailto:maheen19pgc@gmail.com "Send me an email")
+- [Upwork](https://www.upwork.com/freelancers/~017a150168182cf524?mp_source=share )
 
 > Let’s make **HAR solutions smarter, faster, and more accessible together!**
 
